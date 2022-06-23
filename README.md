@@ -1,3 +1,2 @@
 # test-repo
-Welcome to my first repository!
-Hello there.
+Hello there. Welcome to my first repository!
